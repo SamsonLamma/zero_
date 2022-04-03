@@ -1,3 +1,2 @@
-#ommand line
-
-1-uname 
+# uname - prints system information
+uname -0
