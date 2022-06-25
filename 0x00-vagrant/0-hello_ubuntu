@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# uname prints operating system information
+#The command uname prints an operating system information
 
 echo "Linux"
 
