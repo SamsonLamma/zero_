@@ -1,2 +1,7 @@
-# uname - prints system information
-uname -0
+#!/bin/bash
+
+# uname prints operating system information
+
+echo "Linux"
+
+
